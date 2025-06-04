@@ -1,3 +1,3 @@
 # create a PDF file with PDFKit
 
-push, install and use it 🤣🤣
+clone, install and use it 🤣🤣
